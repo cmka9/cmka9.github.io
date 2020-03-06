@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmka9.github.io</id>
     <title>SSZ</title>
-    <updated>2020-03-06T01:17:57.519Z</updated>
+    <updated>2020-03-06T01:19:19.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmka9.github.io"/>
     <link rel="self" href="https://cmka9.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://cmka9.github.io/post/okr/">
         </link>
         <updated>2020-03-06T01:16:49.000Z</updated>
-        <content type="html"><![CDATA[<p><embed src='//player.56.com/v_MTYzMTQyMTIz.swf' type='application/x-shockwave-flash' width='480' height='395'></embed></p>
+        <content type="html"><![CDATA[<p>//player.56.com/v_MTYzMTQyMTIz.swf</p>
 ]]></content>
     </entry>
 </feed>
